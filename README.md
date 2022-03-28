@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @MarcosGulhotti
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Portifólio Marcos Vinicius Gulhotti
 
-<!---
-MarcosGulhotti/MarcosGulhotti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Olá, meu nome é Marcos Vinicius Gulhotti e sou um desenvolvedor web full stack.
+
+Atualmente estou procurando por uma vaga de emprego, no meu perfil pode ver que tenho alguns projetos publicados, utilizando as seguintes tecnologias:
+
+* Node.js
+* React
+* JavaScript
+* TypeScript
+* Python (Flask, Django)
+* HTML
+* CSS
+
+Tenho experiencia trabalhando na Kenzie Academy Brasil como peer coach e produtor de conteúdo ( Node.js ).
+Também cursei a Kenzie e finalizei o curso em março de 2022.
