@@ -1,4 +1,4 @@
-# Portifólio Marcos Vinicius Gulhotti
+# Portfólio Marcos Vinicius Gulhotti
 
 Olá, meu nome é Marcos Vinicius Gulhotti e sou um desenvolvedor web full stack.
 
