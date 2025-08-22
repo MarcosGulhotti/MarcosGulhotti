@@ -11,7 +11,7 @@ I'm a **Software Engineer** specializing in **Frontend and Mobile Development**,
 - **State Management:** Redux, Context API  
 - **Development Practices:** Software Architecture, System Design, Agile/SCRUM  
 
-I thrive in **collaborative environments**, leading technical decisions, optimizing processes, and ensuring high-quality development. Passionate about **learning and innovation**, I actively explore new technologies and contribute to open-source projects.  
+I thrive in **collaborative environments**, leading technical decisions, optimizing processes, and ensuring high-quality development. Passionate about **learning and innovation**, I actively explore new technologies.  
 
 ---
 
