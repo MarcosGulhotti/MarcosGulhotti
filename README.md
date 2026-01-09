@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Marcos Vinicius Gulhotti!  
-## 🚀 Software Engineer | Frontend & Mobile Development  
+# Hi, I'm Marcos Vinicius Gulhotti!  
+## Software Engineer | Frontend & Mobile Development  
 
-I'm a **Software Engineer** specializing in **Frontend and Mobile Development**, with experience in high-complexity projects since 2021. Currently, I work at **Abercrombie & Fitch**, where I contribute to the development and continuous improvement of the company’s internal management system.  
+I'm a **Software Engineer** specializing in **Frontend Development**, with experience in high-complexity projects since 2021. Currently, I work at **Abercrombie & Fitch**, where I contribute to the development and continuous improvement of the company’s internal management system.  
 
 ### 💡 Technologies & Skills  
 
