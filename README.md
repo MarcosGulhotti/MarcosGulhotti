@@ -3,7 +3,7 @@
 
 I'm a **Software Engineer** specializing in **Frontend Development**, with experience in high-complexity projects since 2021. Currently, I work at **Abercrombie & Fitch**, where I contribute to the development and continuous improvement of the company’s internal management system.  
 
-### 💡 Technologies & Skills  
+### Technologies & Skills  
 
 - **Languages & Frameworks:** JavaScript, TypeScript, React, React Native, Next.js  
 - **Backend & APIs:** GraphQL, Apollo Server, Node.js, SQL  
@@ -15,14 +15,14 @@ I thrive in **collaborative environments**, leading technical decisions, optimiz
 
 ---
 
-## 📚 Education  
-🎓 **Technical Degree – Web Development** *(2021 - 2022)*  
+## Education  
+**Technical Degree – Web Development** *(2021 - 2022)*  
 _Kenzie Academy Brazil, Paraná_  
 
 ---
 
-## 📫 Let's Connect!  
+## Let's Connect!  
 
-🔗 **LinkedIn:** [marcosviniciusgulhotti](https://www.linkedin.com/in/marcosviniciusgulhotti/)  
-📂 **GitHub:** [MarcosGulhotti](https://github.com/MarcosGulhotti)  
-📧 **Email:** marcosgulhotti@gmail.com  
+**LinkedIn:** [marcosviniciusgulhotti](https://www.linkedin.com/in/marcosviniciusgulhotti/)  
+**GitHub:** [MarcosGulhotti](https://github.com/MarcosGulhotti)  
+**Email:** marcosgulhotti@gmail.com  
