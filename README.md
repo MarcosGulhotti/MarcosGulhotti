@@ -25,7 +25,7 @@
 
 ## About me
 
-Senior frontend-focused software engineer with **5+ years** building and shipping web and mobile applications — from global e-commerce and enterprise internal systems to healthcare SaaS and freelance products.
+Senior frontend-focused software engineer with **5+ years** building and shipping web and mobile applications, from global e-commerce and enterprise internal systems to healthcare SaaS and freelance products.
 
 I work end to end: product thinking, frontend architecture, API integration, testing, and delivery. Most effective where I can combine hands-on React/Next.js development with technical decisions and feature ownership.
 
@@ -87,7 +87,7 @@ I work end to end: product thinking, frontend architecture, API integration, tes
 ## Featured projects
 
 ### 🏥 Clinic Management Platform · Liore · Freelance
-Internal platform for a nutrition clinic — scheduling, records, meal plans, and finance in one workflow. Built solo from scratch with Next.js, TypeScript, MongoDB, React Hook Form, Zod, FullCalendar, and Jest.
+Internal platform for a nutrition clinic, scheduling, records, meal plans, and finance in one workflow. Built solo from scratch with Next.js, TypeScript, MongoDB, React Hook Form, Zod, FullCalendar, and Jest.
 
 ### 🛍️ [E-commerce Platform · Abercrombie & Fitch](https://www.abercrombie.com/shop/wd)
 Development and maintenance of Abercrombie's e-commerce platform at scale — React, Next.js, TypeScript, GraphQL, Node.js, and Jest in a distributed product environment.
