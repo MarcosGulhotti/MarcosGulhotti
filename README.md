@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Building digital products from architecture to delivery — e-commerce, enterprise systems, healthcare, and client work.
+  Building digital products from architecture to delivery, e-commerce, enterprise systems, healthcare, and client work.
 </p>
 
 <p align="center">
@@ -102,15 +102,6 @@ Marketing site with custom design system, contact form, MapLibre map, SEO, and V
 ### 🩺 Healthcare SaaS Platform · ConectaDoc
 Web and mobile healthcare platform for clients in Brazil and abroad — React, React Native, TypeScript, REST APIs.
 → [conectadoc.com.br](https://conectadoc.com.br/)
-
----
-
-## GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarcosGulhotti&show_icons=true&theme=react&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosGulhotti&layout=compact&theme=react&hide_border=true" alt="Top languages" height="165" />
-</p>
 
 ---
 
